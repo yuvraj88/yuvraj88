@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/yuvraj10"><img src="https://api.daily.dev/devcards/v2/w3bxUA0bv4kVk3MeGjUby.png?type=default&r=354" width="356" alt="yuvraj's Dev Card"/></a>
+<a href="https://app.daily.dev/yuvraj10"><img src="https://api.daily.dev/devcards/v2/w3bxUA0bv4kVk3MeGjUby.png?type=default&r=z3s" width="356" alt="yuvraj's Dev Card"/></a>
 <br/>
 <br/>
 
