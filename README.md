@@ -4,7 +4,14 @@
 
 🔭 I’m currently working on NX Monorepos with Angular.
 <br/>
-🌱 I’m currently learning Kubernetes.
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/yuvraj88?pet-id=656720793041489044"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!--
 **yuvraj88/yuvraj88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
